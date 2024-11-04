@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909463445910",
+    "project_id": "rakumi-kcuvxo",
+    "storage_bucket": "rakumi-kcuvxo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909463445910:android:7c811ed0f9655fd655fdb7",
+        "android_client_info": {
+          "package_name": "com.mycompany.rakumi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX23JgZ7X8HX0HNL_h1E6n6VVUdhg-yTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
